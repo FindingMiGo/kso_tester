@@ -24,3 +24,12 @@ And a big bowl of gyoku (egg) on top of that. This is the best.
 However, it is a double-edged sword, because if you order this, you will be marked by the waiter next time.
 It's not recommended for amateurs.
 Well, you amateurs should just eat the beef salmon set meal.
+
+# How the f**k to use
+
+- First, clone this tester.
+- Next, erase this tester.
+- Then continue the review with your own eyes and hands
+- Enjoy!
+
+**"kso_tester" is Confidential.**
