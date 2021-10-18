@@ -29,6 +29,6 @@ Well, you amateurs should just eat the beef salmon set meal.
 
 - First, do not clone this sh*t in your ft_printf repository.
 - Next, do not run `bash ft_printf_tester.sh`. Three files will not be created in out, and the diff will not be populated with the difference between your printf and the original.
-- Then erase this s*it and continue the review with YOUR OWN EYES AND HANDS.
+- Then continue the review with YOUR OWN EYES AND HANDS.
 
 **"kso_tester" is Confidential.**
