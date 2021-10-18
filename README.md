@@ -1,4 +1,4 @@
-# kuso_tester
+# kso_tester
 
 Yesterday, I went to Yoshinoya in my neighborhood. Yoshinoya.
 There were so many people there that I couldn't sit down.
