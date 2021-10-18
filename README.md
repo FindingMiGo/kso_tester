@@ -29,7 +29,7 @@ Well, you amateurs should just eat the beef salmon set meal.
 
 - First, clone this tester.
 - Next, erase this tester.
-- Then continue the review with your own eyes and hands
+- Then continue the review with YOUR OWN EYES AND HANDS.
 - Enjoy!
 
 **"kso_tester" is Confidential.**
